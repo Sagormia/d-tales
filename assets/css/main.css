@@ -2977,7 +2977,7 @@ h3 em,
     display: none;
   }
   .filter-bar {
-    top: calc(var(--header-h) - 8px);
+    top: calc(var(--header-h) + 10px);
   }
 }
 
