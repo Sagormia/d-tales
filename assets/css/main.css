@@ -1371,7 +1371,7 @@ h3 em,
 /* ——— Project listing ————————————————————————————————— */
 .filter-bar {
   position: sticky;
-  top: calc(var(--header-h) - 10px);
+  top: calc(var(--header-h) + 1.5rem);
   z-index: 20;
   display: flex;
   flex-wrap: wrap;
