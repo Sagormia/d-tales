@@ -1,0 +1,1621 @@
+{
+  "founding-day": {
+    "card": {
+      "src": "assets/img/work/founding-day-card.webp",
+      "width": 875,
+      "height": 537,
+      "animated": false
+    },
+    "hero": {
+      "src": "assets/img/work/founding-day-hero.webp",
+      "width": 1900,
+      "height": 819,
+      "animated": false
+    },
+    "gallery": [
+      {
+        "src": "assets/img/work/founding-day-1.webp",
+        "width": 1200,
+        "height": 812,
+        "animated": false,
+        "alt": "hproject1 — image 1"
+      },
+      {
+        "src": "assets/img/work/founding-day-2.webp",
+        "width": 1200,
+        "height": 812,
+        "animated": false,
+        "alt": "hproject1 — image 2"
+      },
+      {
+        "src": "assets/img/work/founding-day-3.webp",
+        "width": 1200,
+        "height": 897,
+        "animated": false,
+        "alt": "hproject1 — image 3"
+      },
+      {
+        "src": "assets/img/work/founding-day-4.webp",
+        "width": 1200,
+        "height": 803,
+        "animated": false,
+        "alt": "hproject1 — image 4"
+      },
+      {
+        "src": "assets/img/work/founding-day-5.webp",
+        "width": 1200,
+        "height": 724,
+        "animated": false,
+        "alt": "hproject1 — image 5"
+      },
+      {
+        "src": "assets/img/work/founding-day-6.webp",
+        "width": 1200,
+        "height": 551,
+        "animated": false,
+        "alt": "hproject1 — image 6"
+      },
+      {
+        "src": "assets/img/work/founding-day-7.webp",
+        "width": 1200,
+        "height": 917,
+        "animated": false,
+        "alt": "hproject1 — image 7"
+      },
+      {
+        "src": "assets/img/work/founding-day-8.webp",
+        "width": 1200,
+        "height": 226,
+        "animated": false,
+        "alt": "hproject1 — image 8"
+      },
+      {
+        "src": "assets/img/work/founding-day-9.webp",
+        "width": 1200,
+        "height": 882,
+        "animated": false,
+        "alt": "hproject1 — image 9"
+      },
+      {
+        "src": "assets/img/work/founding-day-10.webp",
+        "width": 1200,
+        "height": 1486,
+        "animated": false,
+        "alt": "hproject1 — image 10"
+      },
+      {
+        "src": "assets/img/work/founding-day-11.webp",
+        "width": 1200,
+        "height": 645,
+        "animated": false,
+        "alt": "hproject1 — image 11"
+      },
+      {
+        "src": "assets/img/work/founding-day-12.webp",
+        "width": 1200,
+        "height": 663,
+        "animated": false,
+        "alt": "hproject1 — image 12"
+      },
+      {
+        "src": "assets/img/work/founding-day-13.webp",
+        "width": 1200,
+        "height": 1619,
+        "animated": false,
+        "alt": "hproject1 — image 13"
+      },
+      {
+        "src": "assets/img/work/founding-day-14.webp",
+        "width": 1200,
+        "height": 748,
+        "animated": false,
+        "alt": "hproject1 — image 14"
+      }
+    ]
+  },
+  "magnolia-bakery": {
+    "card": {
+      "src": "assets/img/work/magnolia-bakery-card.webp",
+      "width": 875,
+      "height": 537,
+      "animated": false
+    },
+    "hero": {
+      "src": "assets/img/work/magnolia-bakery-hero.webp",
+      "width": 875,
+      "height": 537,
+      "animated": false
+    },
+    "gallery": [
+      {
+        "src": "assets/img/work/magnolia-bakery-1.webp",
+        "width": 1200,
+        "height": 1276,
+        "animated": false,
+        "alt": "hproject2 — image 1"
+      },
+      {
+        "src": "assets/img/work/magnolia-bakery-2.webp",
+        "width": 1200,
+        "height": 702,
+        "animated": false,
+        "alt": "hproject2 — image 2"
+      },
+      {
+        "src": "assets/img/work/magnolia-bakery-3.webp",
+        "width": 1200,
+        "height": 1605,
+        "animated": false,
+        "alt": "hproject2 — image 3"
+      },
+      {
+        "src": "assets/img/work/magnolia-bakery-4.webp",
+        "width": 1200,
+        "height": 685,
+        "animated": false,
+        "alt": "hproject2 — image 4"
+      },
+      {
+        "src": "assets/img/work/magnolia-bakery-5.webp",
+        "width": 1200,
+        "height": 671,
+        "animated": false,
+        "alt": "hproject2 — image 5"
+      },
+      {
+        "src": "assets/img/work/magnolia-bakery-6.webp",
+        "width": 1200,
+        "height": 685,
+        "animated": false,
+        "alt": "hproject2 — image 6"
+      },
+      {
+        "src": "assets/img/work/magnolia-bakery-7.webp",
+        "width": 1200,
+        "height": 572,
+        "animated": false,
+        "alt": "hproject2 — image 7"
+      },
+      {
+        "src": "assets/img/work/magnolia-bakery-8.webp",
+        "width": 1200,
+        "height": 725,
+        "animated": false,
+        "alt": "hproject2 — image 8"
+      },
+      {
+        "src": "assets/img/work/magnolia-bakery-9.webp",
+        "width": 1200,
+        "height": 800,
+        "animated": false,
+        "alt": "hproject2 — image 9"
+      },
+      {
+        "src": "assets/img/work/magnolia-bakery-10.webp",
+        "width": 1200,
+        "height": 806,
+        "animated": false,
+        "alt": "hproject2 — image 10"
+      }
+    ]
+  },
+  "baraka-of-medina": {
+    "card": {
+      "src": "assets/img/work/baraka-of-medina-card.webp",
+      "width": 875,
+      "height": 537,
+      "animated": false
+    },
+    "hero": {
+      "src": "assets/img/work/baraka-of-medina-hero.webp",
+      "width": 875,
+      "height": 537,
+      "animated": false
+    },
+    "gallery": [
+      {
+        "src": "assets/img/work/baraka-of-medina-1.webp",
+        "width": 1200,
+        "height": 495,
+        "animated": false,
+        "alt": "hproject3 — image 1"
+      },
+      {
+        "src": "assets/img/work/baraka-of-medina-2.webp",
+        "width": 1200,
+        "height": 932,
+        "animated": false,
+        "alt": "hproject3 — image 2"
+      },
+      {
+        "src": "assets/img/work/baraka-of-medina-3.webp",
+        "width": 1200,
+        "height": 931,
+        "animated": false,
+        "alt": "hproject3 — image 3"
+      },
+      {
+        "src": "assets/img/work/baraka-of-medina-4.webp",
+        "width": 1200,
+        "height": 869,
+        "animated": false,
+        "alt": "hproject3 — image 4"
+      },
+      {
+        "src": "assets/img/work/baraka-of-medina-5.webp",
+        "width": 1200,
+        "height": 923,
+        "animated": false,
+        "alt": "hproject3 — image 5"
+      },
+      {
+        "src": "assets/img/work/baraka-of-medina-6.webp",
+        "width": 1200,
+        "height": 1359,
+        "animated": false,
+        "alt": "hproject3 — image 6"
+      },
+      {
+        "src": "assets/img/work/baraka-of-medina-7.webp",
+        "width": 1200,
+        "height": 934,
+        "animated": false,
+        "alt": "hproject3 — image 7"
+      },
+      {
+        "src": "assets/img/work/baraka-of-medina-8.webp",
+        "width": 1200,
+        "height": 607,
+        "animated": false,
+        "alt": "hproject3 — image 8"
+      },
+      {
+        "src": "assets/img/work/baraka-of-medina-9.webp",
+        "width": 1200,
+        "height": 802,
+        "animated": false,
+        "alt": "hproject3 — image 9"
+      },
+      {
+        "src": "assets/img/work/baraka-of-medina-10.webp",
+        "width": 1200,
+        "height": 393,
+        "animated": false,
+        "alt": "hproject3 — image 10"
+      },
+      {
+        "src": "assets/img/work/baraka-of-medina-11.webp",
+        "width": 1200,
+        "height": 682,
+        "animated": false,
+        "alt": "hproject3 — image 11"
+      },
+      {
+        "src": "assets/img/work/baraka-of-medina-12.webp",
+        "width": 1200,
+        "height": 435,
+        "animated": false,
+        "alt": "hproject3 — image 12"
+      },
+      {
+        "src": "assets/img/work/baraka-of-medina-13.webp",
+        "width": 1200,
+        "height": 775,
+        "animated": false,
+        "alt": "hproject3 — image 13"
+      },
+      {
+        "src": "assets/img/work/baraka-of-medina-14.webp",
+        "width": 1200,
+        "height": 698,
+        "animated": false,
+        "alt": "hproject3 — image 14"
+      },
+      {
+        "src": "assets/img/work/baraka-of-medina-15.webp",
+        "width": 1200,
+        "height": 799,
+        "animated": false,
+        "alt": "hproject3 — image 15"
+      },
+      {
+        "src": "assets/img/work/baraka-of-medina-16.webp",
+        "width": 1200,
+        "height": 786,
+        "animated": false,
+        "alt": "hproject3 — image 16"
+      },
+      {
+        "src": "assets/img/work/baraka-of-medina-17.webp",
+        "width": 1200,
+        "height": 602,
+        "animated": false,
+        "alt": "hproject3 — image 17"
+      }
+    ]
+  },
+  "almajdiah-residence": {
+    "card": {
+      "src": "assets/img/work/almajdiah-residence-card.webp",
+      "width": 806,
+      "height": 443,
+      "animated": false
+    },
+    "hero": {
+      "src": "assets/img/work/almajdiah-residence-hero.webp",
+      "width": 1900,
+      "height": 819,
+      "animated": false
+    },
+    "gallery": [
+      {
+        "src": "assets/img/work/almajdiah-residence-1.webp",
+        "width": 1200,
+        "height": 500,
+        "animated": false,
+        "alt": "ar — image 1"
+      },
+      {
+        "src": "assets/img/work/almajdiah-residence-2.webp",
+        "width": 1200,
+        "height": 790,
+        "animated": false,
+        "alt": "ar — image 2"
+      },
+      {
+        "src": "assets/img/work/almajdiah-residence-3.webp",
+        "width": 1200,
+        "height": 737,
+        "animated": false,
+        "alt": "ar — image 3"
+      },
+      {
+        "src": "assets/img/work/almajdiah-residence-4.webp",
+        "width": 1200,
+        "height": 735,
+        "animated": false,
+        "alt": "ar — image 4"
+      },
+      {
+        "src": "assets/img/work/almajdiah-residence-5.webp",
+        "width": 1200,
+        "height": 562,
+        "animated": false,
+        "alt": "ar — image 5"
+      },
+      {
+        "src": "assets/img/work/almajdiah-residence-6.webp",
+        "width": 1200,
+        "height": 806,
+        "animated": false,
+        "alt": "ar — image 6"
+      },
+      {
+        "src": "assets/img/work/almajdiah-residence-7.webp",
+        "width": 1200,
+        "height": 750,
+        "animated": false,
+        "alt": "ar — image 7"
+      },
+      {
+        "src": "assets/img/work/almajdiah-residence-8.webp",
+        "width": 1200,
+        "height": 596,
+        "animated": false,
+        "alt": "ar — image 8"
+      },
+      {
+        "src": "assets/img/work/almajdiah-residence-9.webp",
+        "width": 1200,
+        "height": 675,
+        "animated": false,
+        "alt": "ar — image 9"
+      }
+    ]
+  },
+  "million": {
+    "card": {
+      "src": "assets/img/work/million-card.webp",
+      "width": 806,
+      "height": 443,
+      "animated": false
+    },
+    "hero": {
+      "src": "assets/img/work/million-hero.webp",
+      "width": 1900,
+      "height": 819,
+      "animated": false
+    },
+    "gallery": [
+      {
+        "src": "assets/img/work/million-1.webp",
+        "width": 1200,
+        "height": 1173,
+        "animated": false,
+        "alt": "million — image 1"
+      },
+      {
+        "src": "assets/img/work/million-2.webp",
+        "width": 1200,
+        "height": 613,
+        "animated": false,
+        "alt": "million — image 2"
+      },
+      {
+        "src": "assets/img/work/million-3.webp",
+        "width": 1200,
+        "height": 808,
+        "animated": false,
+        "alt": "million — image 3"
+      },
+      {
+        "src": "assets/img/work/million-4.webp",
+        "width": 1200,
+        "height": 843,
+        "animated": false,
+        "alt": "million — image 4"
+      },
+      {
+        "src": "assets/img/work/million-5.webp",
+        "width": 1200,
+        "height": 680,
+        "animated": false,
+        "alt": "million — image 5"
+      },
+      {
+        "src": "assets/img/work/million-6.webp",
+        "width": 1200,
+        "height": 1101,
+        "animated": false,
+        "alt": "million — image 6"
+      },
+      {
+        "src": "assets/img/work/million-7.webp",
+        "width": 1200,
+        "height": 1596,
+        "animated": false,
+        "alt": "million — image 7"
+      },
+      {
+        "src": "assets/img/work/million-8.webp",
+        "width": 1200,
+        "height": 1343,
+        "animated": false,
+        "alt": "million — image 8"
+      },
+      {
+        "src": "assets/img/work/million-9.webp",
+        "width": 1200,
+        "height": 793,
+        "animated": false,
+        "alt": "million — image 9"
+      },
+      {
+        "src": "assets/img/work/million-10.webp",
+        "width": 1200,
+        "height": 848,
+        "animated": false,
+        "alt": "million — image 10"
+      },
+      {
+        "src": "assets/img/work/million-11.webp",
+        "width": 1200,
+        "height": 849,
+        "animated": false,
+        "alt": "million — image 11"
+      },
+      {
+        "src": "assets/img/work/million-12.webp",
+        "width": 1200,
+        "height": 799,
+        "animated": false,
+        "alt": "million — image 12"
+      },
+      {
+        "src": "assets/img/work/million-13.webp",
+        "width": 1200,
+        "height": 911,
+        "animated": false,
+        "alt": "million — image 13"
+      },
+      {
+        "src": "assets/img/work/million-14.webp",
+        "width": 1200,
+        "height": 1046,
+        "animated": false,
+        "alt": "million — image 14"
+      }
+    ]
+  },
+  "almqr": {
+    "card": {
+      "src": "assets/img/work/almqr-card.webp",
+      "width": 806,
+      "height": 443,
+      "animated": false
+    },
+    "hero": {
+      "src": "assets/img/work/almqr-hero.webp",
+      "width": 806,
+      "height": 443,
+      "animated": false
+    },
+    "gallery": [
+      {
+        "src": "assets/img/work/almqr-1.webp",
+        "width": 1200,
+        "height": 675,
+        "animated": false,
+        "alt": "amr — image 1"
+      },
+      {
+        "src": "assets/img/work/almqr-2.webp",
+        "width": 1200,
+        "height": 1853,
+        "animated": false,
+        "alt": "amr — image 2"
+      },
+      {
+        "src": "assets/img/work/almqr-3.webp",
+        "width": 1200,
+        "height": 676,
+        "animated": false,
+        "alt": "amr — image 3"
+      },
+      {
+        "src": "assets/img/work/almqr-4.webp",
+        "width": 1200,
+        "height": 675,
+        "animated": false,
+        "alt": "amr — image 4"
+      },
+      {
+        "src": "assets/img/work/almqr-5.webp",
+        "width": 1200,
+        "height": 675,
+        "animated": false,
+        "alt": "amr — image 5"
+      },
+      {
+        "src": "assets/img/work/almqr-6.webp",
+        "width": 1200,
+        "height": 675,
+        "animated": false,
+        "alt": "amr — image 6"
+      },
+      {
+        "src": "assets/img/work/almqr-7.webp",
+        "width": 1200,
+        "height": 887,
+        "animated": false,
+        "alt": "amr — image 7"
+      },
+      {
+        "src": "assets/img/work/almqr-8.webp",
+        "width": 1200,
+        "height": 675,
+        "animated": false,
+        "alt": "amr — image 8"
+      }
+    ]
+  },
+  "medina-pavilion": {
+    "card": {
+      "src": "assets/img/work/medina-pavilion-card.webp",
+      "width": 806,
+      "height": 443,
+      "animated": false
+    },
+    "hero": {
+      "src": "assets/img/work/medina-pavilion-hero.webp",
+      "width": 806,
+      "height": 443,
+      "animated": false
+    },
+    "gallery": [
+      {
+        "src": "assets/img/work/medina-pavilion-1.webp",
+        "width": 1200,
+        "height": 801,
+        "animated": false,
+        "alt": "mp — image 1"
+      },
+      {
+        "src": "assets/img/work/medina-pavilion-2.webp",
+        "width": 1200,
+        "height": 739,
+        "animated": false,
+        "alt": "mp — image 2"
+      },
+      {
+        "src": "assets/img/work/medina-pavilion-3.webp",
+        "width": 1200,
+        "height": 623,
+        "animated": false,
+        "alt": "mp — image 3"
+      },
+      {
+        "src": "assets/img/work/medina-pavilion-4.webp",
+        "width": 1200,
+        "height": 651,
+        "animated": false,
+        "alt": "mp — image 4"
+      },
+      {
+        "src": "assets/img/work/medina-pavilion-5.webp",
+        "width": 1200,
+        "height": 675,
+        "animated": false,
+        "alt": "mp — image 5"
+      },
+      {
+        "src": "assets/img/work/medina-pavilion-6.webp",
+        "width": 1200,
+        "height": 800,
+        "animated": false,
+        "alt": "mp — image 6"
+      },
+      {
+        "src": "assets/img/work/medina-pavilion-7.webp",
+        "width": 1200,
+        "height": 667,
+        "animated": false,
+        "alt": "mp — image 7"
+      },
+      {
+        "src": "assets/img/work/medina-pavilion-8.webp",
+        "width": 1200,
+        "height": 795,
+        "animated": false,
+        "alt": "mp — image 8"
+      },
+      {
+        "src": "assets/img/work/medina-pavilion-9.webp",
+        "width": 1200,
+        "height": 800,
+        "animated": false,
+        "alt": "mp — image 9"
+      },
+      {
+        "src": "assets/img/work/medina-pavilion-10.webp",
+        "width": 1200,
+        "height": 676,
+        "animated": false,
+        "alt": "mp — image 10"
+      },
+      {
+        "src": "assets/img/work/medina-pavilion-11.webp",
+        "width": 1200,
+        "height": 679,
+        "animated": false,
+        "alt": "mp — image 11"
+      },
+      {
+        "src": "assets/img/work/medina-pavilion-12.webp",
+        "width": 1200,
+        "height": 716,
+        "animated": false,
+        "alt": "mp — image 12"
+      }
+    ]
+  },
+  "el-placer": {
+    "card": {
+      "src": "assets/img/work/el-placer-card.webp",
+      "width": 806,
+      "height": 443,
+      "animated": false
+    },
+    "hero": {
+      "src": "assets/img/work/el-placer-hero.webp",
+      "width": 1900,
+      "height": 819,
+      "animated": false
+    },
+    "gallery": [
+      {
+        "src": "assets/img/work/el-placer-1.webp",
+        "width": 1200,
+        "height": 676,
+        "animated": false,
+        "alt": "ep — image 1"
+      },
+      {
+        "src": "assets/img/work/el-placer-2.webp",
+        "width": 1200,
+        "height": 569,
+        "animated": false,
+        "alt": "ep — image 2"
+      },
+      {
+        "src": "assets/img/work/el-placer-3.webp",
+        "width": 1200,
+        "height": 849,
+        "animated": false,
+        "alt": "ep — image 3"
+      },
+      {
+        "src": "assets/img/work/el-placer-4.webp",
+        "width": 1200,
+        "height": 848,
+        "animated": false,
+        "alt": "ep — image 4"
+      },
+      {
+        "src": "assets/img/work/el-placer-5.webp",
+        "width": 1200,
+        "height": 849,
+        "animated": false,
+        "alt": "ep — image 5"
+      },
+      {
+        "src": "assets/img/work/el-placer-6.webp",
+        "width": 1200,
+        "height": 849,
+        "animated": false,
+        "alt": "ep — image 6"
+      },
+      {
+        "src": "assets/img/work/el-placer-7.webp",
+        "width": 1200,
+        "height": 848,
+        "animated": false,
+        "alt": "ep — image 7"
+      },
+      {
+        "src": "assets/img/work/el-placer-8.webp",
+        "width": 1200,
+        "height": 848,
+        "animated": false,
+        "alt": "ep — image 8"
+      },
+      {
+        "src": "assets/img/work/el-placer-9.webp",
+        "width": 1200,
+        "height": 848,
+        "animated": false,
+        "alt": "ep — image 9"
+      },
+      {
+        "src": "assets/img/work/el-placer-10.webp",
+        "width": 1200,
+        "height": 538,
+        "animated": false,
+        "alt": "ep — image 10"
+      },
+      {
+        "src": "assets/img/work/el-placer-11.webp",
+        "width": 1200,
+        "height": 684,
+        "animated": false,
+        "alt": "ep — image 11"
+      },
+      {
+        "src": "assets/img/work/el-placer-12.webp",
+        "width": 1200,
+        "height": 803,
+        "animated": false,
+        "alt": "ep — image 12"
+      },
+      {
+        "src": "assets/img/work/el-placer-13.webp",
+        "width": 1200,
+        "height": 848,
+        "animated": false,
+        "alt": "ep — image 13"
+      },
+      {
+        "src": "assets/img/work/el-placer-14.webp",
+        "width": 1200,
+        "height": 710,
+        "animated": false,
+        "alt": "ep — image 14"
+      }
+    ]
+  },
+  "shovel": {
+    "card": {
+      "src": "assets/img/work/shovel-card.webp",
+      "width": 1100,
+      "height": 474,
+      "animated": false
+    },
+    "hero": {
+      "src": "assets/img/work/shovel-hero.webp",
+      "width": 1900,
+      "height": 819,
+      "animated": false
+    },
+    "gallery": [
+      {
+        "src": "assets/img/work/shovel-1.webp",
+        "width": 1200,
+        "height": 675,
+        "animated": false,
+        "alt": "sl — image 1"
+      },
+      {
+        "src": "assets/img/work/shovel-2.webp",
+        "width": 1200,
+        "height": 675,
+        "animated": false,
+        "alt": "sl — image 2"
+      },
+      {
+        "src": "assets/img/work/shovel-3.webp",
+        "width": 1200,
+        "height": 386,
+        "animated": false,
+        "alt": "sl — image 3"
+      },
+      {
+        "src": "assets/img/work/shovel-4.webp",
+        "width": 1200,
+        "height": 592,
+        "animated": false,
+        "alt": "sl — image 4"
+      },
+      {
+        "src": "assets/img/work/shovel-5.webp",
+        "width": 1200,
+        "height": 693,
+        "animated": false,
+        "alt": "sl — image 5"
+      },
+      {
+        "src": "assets/img/work/shovel-6.webp",
+        "width": 1200,
+        "height": 645,
+        "animated": false,
+        "alt": "sl — image 6"
+      },
+      {
+        "src": "assets/img/work/shovel-7.webp",
+        "width": 1200,
+        "height": 651,
+        "animated": false,
+        "alt": "sl — image 7"
+      },
+      {
+        "src": "assets/img/work/shovel-8.webp",
+        "width": 1200,
+        "height": 816,
+        "animated": false,
+        "alt": "sl — image 8"
+      },
+      {
+        "src": "assets/img/work/shovel-9.webp",
+        "width": 1200,
+        "height": 771,
+        "animated": false,
+        "alt": "sl — image 9"
+      },
+      {
+        "src": "assets/img/work/shovel-10.webp",
+        "width": 1200,
+        "height": 535,
+        "animated": false,
+        "alt": "sl — image 10"
+      },
+      {
+        "src": "assets/img/work/shovel-11.webp",
+        "width": 1200,
+        "height": 563,
+        "animated": false,
+        "alt": "sl — image 11"
+      },
+      {
+        "src": "assets/img/work/shovel-12.webp",
+        "width": 1200,
+        "height": 697,
+        "animated": false,
+        "alt": "sl — image 12"
+      },
+      {
+        "src": "assets/img/work/shovel-13.webp",
+        "width": 1200,
+        "height": 627,
+        "animated": false,
+        "alt": "sl — image 13"
+      }
+    ]
+  },
+  "skoops": {
+    "card": {
+      "src": "assets/img/work/skoops-card.webp",
+      "width": 806,
+      "height": 443,
+      "animated": false
+    },
+    "hero": {
+      "src": "assets/img/work/skoops-hero.webp",
+      "width": 806,
+      "height": 443,
+      "animated": false
+    },
+    "gallery": [
+      {
+        "src": "assets/img/work/skoops-1.webp",
+        "width": 1200,
+        "height": 841,
+        "animated": false,
+        "alt": "skoops — image 1"
+      },
+      {
+        "src": "assets/img/work/skoops-2.webp",
+        "width": 1200,
+        "height": 548,
+        "animated": false,
+        "alt": "skoops — image 2"
+      },
+      {
+        "src": "assets/img/work/skoops-3.webp",
+        "width": 1200,
+        "height": 1009,
+        "animated": false,
+        "alt": "skoops — image 3"
+      },
+      {
+        "src": "assets/img/work/skoops-4.webp",
+        "width": 1200,
+        "height": 1079,
+        "animated": false,
+        "alt": "skoops — image 4"
+      },
+      {
+        "src": "assets/img/work/skoops-5.webp",
+        "width": 1200,
+        "height": 1187,
+        "animated": false,
+        "alt": "skoops — image 5"
+      },
+      {
+        "src": "assets/img/work/skoops-6.webp",
+        "width": 1200,
+        "height": 784,
+        "animated": false,
+        "alt": "skoops — image 6"
+      },
+      {
+        "src": "assets/img/work/skoops-7.webp",
+        "width": 1200,
+        "height": 557,
+        "animated": false,
+        "alt": "skoops — image 7"
+      },
+      {
+        "src": "assets/img/work/skoops-8.webp",
+        "width": 1200,
+        "height": 1195,
+        "animated": false,
+        "alt": "skoops — image 8"
+      },
+      {
+        "src": "assets/img/work/skoops-9.webp",
+        "width": 1200,
+        "height": 1002,
+        "animated": false,
+        "alt": "skoops — image 9"
+      },
+      {
+        "src": "assets/img/work/skoops-10.webp",
+        "width": 1200,
+        "height": 801,
+        "animated": false,
+        "alt": "skoops — image 10"
+      },
+      {
+        "src": "assets/img/work/skoops-11.webp",
+        "width": 1200,
+        "height": 961,
+        "animated": false,
+        "alt": "skoops — image 11"
+      },
+      {
+        "src": "assets/img/work/skoops-12.webp",
+        "width": 1200,
+        "height": 601,
+        "animated": false,
+        "alt": "skoops — image 12"
+      },
+      {
+        "src": "assets/img/work/skoops-13.webp",
+        "width": 1200,
+        "height": 623,
+        "animated": false,
+        "alt": "skoops — image 13"
+      },
+      {
+        "src": "assets/img/work/skoops-14.webp",
+        "width": 1200,
+        "height": 529,
+        "animated": false,
+        "alt": "skoops — image 14"
+      },
+      {
+        "src": "assets/img/work/skoops-15.webp",
+        "width": 1200,
+        "height": 599,
+        "animated": false,
+        "alt": "skoops — image 15"
+      },
+      {
+        "src": "assets/img/work/skoops-16.webp",
+        "width": 1200,
+        "height": 601,
+        "animated": false,
+        "alt": "skoops — image 16"
+      },
+      {
+        "src": "assets/img/work/skoops-17.webp",
+        "width": 1200,
+        "height": 493,
+        "animated": false,
+        "alt": "skoops — image 17"
+      }
+    ]
+  },
+  "crowd-analyzer": {
+    "card": {
+      "src": "assets/img/work/crowd-analyzer-card.webp",
+      "width": 806,
+      "height": 443,
+      "animated": false
+    },
+    "hero": {
+      "src": "assets/img/work/crowd-analyzer-hero.webp",
+      "width": 1900,
+      "height": 819,
+      "animated": false
+    },
+    "gallery": [
+      {
+        "src": "assets/img/work/crowd-analyzer-1.webp",
+        "width": 1200,
+        "height": 651,
+        "animated": false,
+        "alt": "ca — image 1"
+      },
+      {
+        "src": "assets/img/work/crowd-analyzer-2.webp",
+        "width": 1200,
+        "height": 549,
+        "animated": false,
+        "alt": "ca — image 2"
+      },
+      {
+        "src": "assets/img/work/crowd-analyzer-3.webp",
+        "width": 1200,
+        "height": 546,
+        "animated": false,
+        "alt": "ca — image 3"
+      },
+      {
+        "src": "assets/img/work/crowd-analyzer-4.webp",
+        "width": 1200,
+        "height": 736,
+        "animated": false,
+        "alt": "ca — image 4"
+      },
+      {
+        "src": "assets/img/work/crowd-analyzer-5.webp",
+        "width": 1200,
+        "height": 800,
+        "animated": false,
+        "alt": "ca — image 5"
+      },
+      {
+        "src": "assets/img/work/crowd-analyzer-6.webp",
+        "width": 1200,
+        "height": 765,
+        "animated": false,
+        "alt": "ca — image 6"
+      },
+      {
+        "src": "assets/img/work/crowd-analyzer-7.webp",
+        "width": 1200,
+        "height": 669,
+        "animated": false,
+        "alt": "ca — image 7"
+      },
+      {
+        "src": "assets/img/work/crowd-analyzer-8.webp",
+        "width": 1200,
+        "height": 517,
+        "animated": false,
+        "alt": "ca — image 8"
+      },
+      {
+        "src": "assets/img/work/crowd-analyzer-9.webp",
+        "width": 1200,
+        "height": 803,
+        "animated": false,
+        "alt": "ca — image 9"
+      },
+      {
+        "src": "assets/img/work/crowd-analyzer-10.webp",
+        "width": 1200,
+        "height": 800,
+        "animated": false,
+        "alt": "ca — image 10"
+      },
+      {
+        "src": "assets/img/work/crowd-analyzer-11.webp",
+        "width": 1200,
+        "height": 548,
+        "animated": false,
+        "alt": "ca — image 11"
+      },
+      {
+        "src": "assets/img/work/crowd-analyzer-12.webp",
+        "width": 1200,
+        "height": 675,
+        "animated": false,
+        "alt": "ca — image 12"
+      }
+    ]
+  },
+  "shawarmix": {
+    "card": {
+      "src": "assets/img/work/shawarmix-card.webp",
+      "width": 1100,
+      "height": 474,
+      "animated": false
+    },
+    "hero": {
+      "src": "assets/img/work/shawarmix-hero.webp",
+      "width": 1900,
+      "height": 819,
+      "animated": false
+    },
+    "gallery": [
+      {
+        "src": "assets/img/work/shawarmix-1.webp",
+        "width": 1200,
+        "height": 839,
+        "animated": false,
+        "alt": "sx — image 1"
+      },
+      {
+        "src": "assets/img/work/shawarmix-2.webp",
+        "width": 1200,
+        "height": 373,
+        "animated": false,
+        "alt": "sx — image 2"
+      },
+      {
+        "src": "assets/img/work/shawarmix-3.webp",
+        "width": 1200,
+        "height": 1120,
+        "animated": false,
+        "alt": "sx — image 3"
+      },
+      {
+        "src": "assets/img/work/shawarmix-4.webp",
+        "width": 1200,
+        "height": 659,
+        "animated": false,
+        "alt": "sx — image 4"
+      },
+      {
+        "src": "assets/img/work/shawarmix-5.webp",
+        "width": 1200,
+        "height": 985,
+        "animated": false,
+        "alt": "sx — image 5"
+      },
+      {
+        "src": "assets/img/work/shawarmix-6.webp",
+        "width": 1200,
+        "height": 676,
+        "animated": false,
+        "alt": "sx — image 6"
+      },
+      {
+        "src": "assets/img/work/shawarmix-7.webp",
+        "width": 1200,
+        "height": 761,
+        "animated": false,
+        "alt": "sx — image 7"
+      },
+      {
+        "src": "assets/img/work/shawarmix-8.webp",
+        "width": 1200,
+        "height": 789,
+        "animated": false,
+        "alt": "sx — image 8"
+      },
+      {
+        "src": "assets/img/work/shawarmix-9.webp",
+        "width": 1200,
+        "height": 827,
+        "animated": false,
+        "alt": "sx — image 9"
+      }
+    ]
+  },
+  "shrimp-shack": {
+    "card": {
+      "src": "assets/img/work/shrimp-shack-card.webp",
+      "width": 806,
+      "height": 443,
+      "animated": false
+    },
+    "hero": {
+      "src": "assets/img/work/shrimp-shack-hero.webp",
+      "width": 806,
+      "height": 443,
+      "animated": false
+    },
+    "gallery": [
+      {
+        "src": "assets/img/work/shrimp-shack-1.webp",
+        "width": 1200,
+        "height": 1020,
+        "animated": false,
+        "alt": "ss — image 1"
+      },
+      {
+        "src": "assets/img/work/shrimp-shack-2.webp",
+        "width": 1200,
+        "height": 473,
+        "animated": false,
+        "alt": "ss — image 2"
+      },
+      {
+        "src": "assets/img/work/shrimp-shack-3.webp",
+        "width": 1200,
+        "height": 579,
+        "animated": false,
+        "alt": "ss — image 3"
+      },
+      {
+        "src": "assets/img/work/shrimp-shack-4.webp",
+        "width": 1200,
+        "height": 1295,
+        "animated": false,
+        "alt": "ss — image 4"
+      },
+      {
+        "src": "assets/img/work/shrimp-shack-5.webp",
+        "width": 1200,
+        "height": 1537,
+        "animated": false,
+        "alt": "ss — image 5"
+      },
+      {
+        "src": "assets/img/work/shrimp-shack-6.webp",
+        "width": 1200,
+        "height": 330,
+        "animated": false,
+        "alt": "ss — image 6"
+      },
+      {
+        "src": "assets/img/work/shrimp-shack-7.webp",
+        "width": 1200,
+        "height": 711,
+        "animated": false,
+        "alt": "ss — image 7"
+      },
+      {
+        "src": "assets/img/work/shrimp-shack-8.webp",
+        "width": 1200,
+        "height": 970,
+        "animated": false,
+        "alt": "ss — image 8"
+      },
+      {
+        "src": "assets/img/work/shrimp-shack-9.webp",
+        "width": 1200,
+        "height": 693,
+        "animated": false,
+        "alt": "ss — image 9"
+      },
+      {
+        "src": "assets/img/work/shrimp-shack-10.webp",
+        "width": 1200,
+        "height": 663,
+        "animated": false,
+        "alt": "ss — image 10"
+      },
+      {
+        "src": "assets/img/work/shrimp-shack-11.webp",
+        "width": 1200,
+        "height": 994,
+        "animated": false,
+        "alt": "ss — image 11"
+      },
+      {
+        "src": "assets/img/work/shrimp-shack-12.webp",
+        "width": 1200,
+        "height": 1088,
+        "animated": false,
+        "alt": "ss — image 12"
+      },
+      {
+        "src": "assets/img/work/shrimp-shack-13.webp",
+        "width": 1200,
+        "height": 810,
+        "animated": false,
+        "alt": "ss — image 13"
+      },
+      {
+        "src": "assets/img/work/shrimp-shack-14.webp",
+        "width": 1200,
+        "height": 1418,
+        "animated": false,
+        "alt": "ss — image 14"
+      },
+      {
+        "src": "assets/img/work/shrimp-shack-15.webp",
+        "width": 1200,
+        "height": 697,
+        "animated": false,
+        "alt": "ss — image 15"
+      },
+      {
+        "src": "assets/img/work/shrimp-shack-16.webp",
+        "width": 1200,
+        "height": 1155,
+        "animated": false,
+        "alt": "ss — image 16"
+      }
+    ]
+  },
+  "team": [
+    {
+      "name": "dalal",
+      "src": "assets/img/team/dalal.webp",
+      "width": 620,
+      "height": 69614,
+      "animated": true
+    },
+    {
+      "name": "raghad",
+      "src": "assets/img/team/raghad.webp",
+      "width": 620,
+      "height": 51757,
+      "animated": true
+    },
+    {
+      "name": "shyma",
+      "src": "assets/img/team/shyma.webp",
+      "width": 620,
+      "height": 59288,
+      "animated": true
+    },
+    {
+      "name": "nour",
+      "src": "assets/img/team/nour.webp",
+      "width": 620,
+      "height": 75943,
+      "animated": true
+    },
+    {
+      "name": "israa",
+      "src": "assets/img/team/israa.webp",
+      "width": 620,
+      "height": 76186,
+      "animated": true
+    }
+  ],
+  "social": {
+    "riyadh": [
+      {
+        "src": "assets/img/social/riyadh-1.webp",
+        "width": 549,
+        "height": 698,
+        "animated": false
+      },
+      {
+        "src": "assets/img/social/riyadh-2.webp",
+        "width": 380,
+        "height": 641,
+        "animated": false
+      },
+      {
+        "src": "assets/img/social/riyadh-3.webp",
+        "width": 807,
+        "height": 693,
+        "animated": false
+      },
+      {
+        "src": "assets/img/social/riyadh-4.webp",
+        "width": 388,
+        "height": 380,
+        "animated": false
+      }
+    ],
+    "oishiisushi": [
+      {
+        "src": "assets/img/social/oishiisushi-1.webp",
+        "width": 549,
+        "height": 698,
+        "animated": false
+      },
+      {
+        "src": "assets/img/social/oishiisushi-2.webp",
+        "width": 379,
+        "height": 649,
+        "animated": false
+      },
+      {
+        "src": "assets/img/social/oishiisushi-3.webp",
+        "width": 808,
+        "height": 693,
+        "animated": false
+      },
+      {
+        "src": "assets/img/social/oishiisushi-4.webp",
+        "width": 451,
+        "height": 329,
+        "animated": false
+      }
+    ],
+    "idmi": [
+      {
+        "src": "assets/img/social/idmi-1.webp",
+        "width": 549,
+        "height": 698,
+        "animated": false
+      },
+      {
+        "src": "assets/img/social/idmi-2.webp",
+        "width": 807,
+        "height": 694,
+        "animated": false
+      },
+      {
+        "src": "assets/img/social/idmi-3.webp",
+        "width": 387,
+        "height": 381,
+        "animated": false
+      },
+      {
+        "src": "assets/img/social/idmi-4.webp",
+        "width": 380,
+        "height": 380,
+        "animated": false
+      }
+    ],
+    "skoops": [
+      {
+        "src": "assets/img/social/skoops-1.webp",
+        "width": 549,
+        "height": 698,
+        "animated": false
+      },
+      {
+        "src": "assets/img/social/skoops-2.webp",
+        "width": 380,
+        "height": 641,
+        "animated": false
+      },
+      {
+        "src": "assets/img/social/skoops-3.webp",
+        "width": 808,
+        "height": 693,
+        "animated": false
+      },
+      {
+        "src": "assets/img/social/skoops-4.webp",
+        "width": 387,
+        "height": 380,
+        "animated": false
+      }
+    ],
+    "shps": [
+      {
+        "src": "assets/img/social/shps-1.webp",
+        "width": 549,
+        "height": 698,
+        "animated": false
+      },
+      {
+        "src": "assets/img/social/shps-2.webp",
+        "width": 380,
+        "height": 641,
+        "animated": false
+      },
+      {
+        "src": "assets/img/social/shps-3.webp",
+        "width": 808,
+        "height": 694,
+        "animated": false
+      },
+      {
+        "src": "assets/img/social/shps-4.webp",
+        "width": 387,
+        "height": 381,
+        "animated": false
+      }
+    ],
+    "magnolia-bakery": [
+      {
+        "src": "assets/img/social/magnolia-bakery-1.webp",
+        "width": 875,
+        "height": 537,
+        "animated": false
+      },
+      {
+        "src": "assets/img/social/magnolia-bakery-2.webp",
+        "width": 380,
+        "height": 641,
+        "animated": false
+      },
+      {
+        "src": "assets/img/social/magnolia-bakery-3.webp",
+        "width": 807,
+        "height": 693,
+        "animated": false
+      },
+      {
+        "src": "assets/img/social/magnolia-bakery-4.webp",
+        "width": 451,
+        "height": 329,
+        "animated": false
+      }
+    ]
+  },
+  "studio": [
+    {
+      "src": "assets/img/studio-1.webp",
+      "width": 637,
+      "height": 406,
+      "animated": false
+    },
+    {
+      "src": "assets/img/studio-2.webp",
+      "width": 638,
+      "height": 406,
+      "animated": false
+    },
+    {
+      "src": "assets/img/studio-3.webp",
+      "width": 636,
+      "height": 406,
+      "animated": false
+    },
+    {
+      "src": "assets/img/studio-4.webp",
+      "width": 638,
+      "height": 406,
+      "animated": false
+    },
+    {
+      "src": "assets/img/studio-5.webp",
+      "width": 638,
+      "height": 406,
+      "animated": false
+    },
+    {
+      "src": "assets/img/studio-6.webp",
+      "width": 638,
+      "height": 406,
+      "animated": false
+    }
+  ],
+  "dalal": {
+    "src": "assets/img/dalal.webp",
+    "width": 766,
+    "height": 1053,
+    "animated": false
+  },
+  "clients": [
+    "assets/img/clients/client1.svg",
+    "assets/img/clients/client2.svg",
+    "assets/img/clients/client3.svg",
+    "assets/img/clients/client4.svg",
+    "assets/img/clients/client5.svg",
+    "assets/img/clients/client-logos-11.webp",
+    "assets/img/clients/client-logos-12.webp",
+    "assets/img/clients/client-logos-13.webp",
+    "assets/img/clients/client-logos-14.webp",
+    "assets/img/clients/client-logos-15.webp",
+    "assets/img/clients/client-logos-16.webp",
+    "assets/img/clients/client-logos-17.webp",
+    "assets/img/clients/client-logos-18.webp",
+    "assets/img/clients/client-logos-19.webp",
+    "assets/img/clients/client-logos-20.webp"
+  ]
+}
